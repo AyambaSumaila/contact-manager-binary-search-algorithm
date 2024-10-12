@@ -1,0 +1,9 @@
+venv 
+contacts/__pycache__
+contacts/migrations
+
+myproject/__pycache__
+
+
+db.sqlite3
+
